@@ -2,6 +2,7 @@
 return array (
   'modules' => 
   array (
+    'JBdev_DataPopulate' => 1,
     'Magento_Store' => 1,
     'Magento_Directory' => 1,
     'Magento_AdvancedPricingImportExport' => 1,
