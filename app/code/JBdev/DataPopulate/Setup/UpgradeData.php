@@ -82,7 +82,8 @@ class UpgradeData implements UpgradeDataInterface
             ['scope' => 'stores', 'scope_id' => '2', 'path' => 'general/locale/weight_unit', 'value' => 'kgs'],
             ['scope' => 'default', 'scope_id' => '0', 'path' => 'web/unsecure/base_url', 'value' => 'http://localhost/bies/'],
             ['scope' => 'stores', 'scope_id' => '1', 'path' => 'web/unsecure/base_url', 'value' => 'http://localhost/bies.en/'],
-            ['scope' => 'stores', 'scope_id' => '2', 'path' => 'web/unsecure/base_url', 'value' => 'http://localhost/bies.pl/']
+            ['scope' => 'stores', 'scope_id' => '2', 'path' => 'web/unsecure/base_url', 'value' => 'http://localhost/bies.pl/'],
+            ['scope' => 'websites', 'scope_id' => '1', 'path' => 'design/theme/theme_id', 'value' => '4']
         ];
 
 

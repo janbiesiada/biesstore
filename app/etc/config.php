@@ -107,5 +107,10 @@ return array (
     'Magento_Weee' => 1,
     'Magento_CatalogWidget' => 1,
     'Magento_Wishlist' => 1,
+    'Swissup_Core' => 1,
+    'Swissup_FontAwesome' => 1,
+    'Swissup_SlickCarousel' => 1,
+    'Swissup_ThemeEditor' => 1,
+    'Swissup_ThemeEditorSwissupAbsolute' => 1,
   ),
 );
