@@ -70,8 +70,10 @@ class UpgradeData implements UpgradeDataInterface
     {
         return [
             ['scope' => 'default', 'scope_id' => '0', 'path' => 'catalog/category/root_id', 'value' => '2'],
-            ['scope' => 'stores', 'scope_id' => '2', 'path' => 'currency/options/allow', 'value' => 'EUR,PLN'],
+            ['scope' => 'stores', 'scope_id' => '2', 'path' => 'currency/options/allow', 'value' => 'PLN'],
             ['scope' => 'stores', 'scope_id' => '2', 'path' => 'currency/options/default', 'value' => 'PLN'],
+            ['scope' => 'stores', 'scope_id' => '1', 'path' => 'currency/options/allow', 'value' => 'USD'],
+            ['scope' => 'stores', 'scope_id' => '1', 'path' => 'currency/options/default', 'value' => 'USD'],
             ['scope' => 'default', 'scope_id' => '0', 'path' => 'general/locale/code', 'value' => 'pl_PL'],
             ['scope' => 'stores', 'scope_id' => '1', 'path' => 'general/locale/code', 'value' => 'en_US'],
             ['scope' => 'stores', 'scope_id' => '2', 'path' => 'general/locale/code', 'value' => 'pl_PL'],
