@@ -3,6 +3,7 @@ return array (
   'modules' => 
   array (
     'Magento_Store' => 1,
+    'JBdev_EcommerceBlocker' => 1,
     'Magento_Directory' => 1,
     'Magento_Backend' => 1,
     'Magento_AdvancedPricingImportExport' => 1,
@@ -107,6 +108,7 @@ return array (
     'Magento_Weee' => 1,
     'Magento_CatalogWidget' => 1,
     'Magento_Wishlist' => 1,
+    'Monetha_PaymentGateway' => 1,
     'Swissup_Core' => 1,
     'Swissup_FontAwesome' => 1,
     'Swissup_SlickCarousel' => 1,
